@@ -7,4 +7,4 @@ DZ09 Smart Watch firmware.
 - 4MB NOR Flash
 
 ## Read More
-https://alkathirikhalid.wordpress.com/
+https://alkathirikhalid.wordpress.com/2017/11/22/dz09-smart-watch/
