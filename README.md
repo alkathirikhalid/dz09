@@ -1,2 +1,10 @@
 # dz09
-DZ09 Smart Watch firmware 8MB
+DZ09 Smart Watch firmware.
+
+## Variation Device Specification
+- Nucleus RTOS
+- MT6261
+- 4MB NOR Flash
+
+## Read More
+https://alkathirikhalid.wordpress.com/
